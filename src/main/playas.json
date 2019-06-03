@@ -1,0 +1,41 @@
+{
+  "playas": [
+    {
+      "id": 0,
+      "title": "San Lorenzo",
+      "cams": [
+        {
+          "src": "https://v.angelcam.com/iframe?v=vboykjz9r8&amp;mute=0&amp;autoplay=1&amp;uuid=81f40fb3-b118-2ffc-516f-26c03ddcb116",
+          "iframe": true
+        },
+        {
+          "src": "http://85.152.41.31:8008/axis-cgi/mjpg/video.cgi?resolution=800x600&dummy=1291916677748axis-cgi/mjpg/video.cgi?resolution=480x360&dummy=1414403612100",
+          "iframe": false
+        }
+      ],
+      "forecast": []
+    },
+    {
+      "id": 1,
+      "title": "San Lorenzo1",
+      "cams": [
+        {
+          "src": "https://v.angelcam.com/iframe?v=vboykjz9r8&amp;mute=0&amp;autoplay=1&amp;uuid=81f40fb3-b118-2ffc-516f-26c03ddcb116",
+          "iframe": true
+        }
+      ],
+      "forecast": []
+    },
+    {
+      "id": 2,
+      "title": "San Lorenzo2",
+      "cams": [
+        {
+          "src": "http://85.152.41.31:8008/axis-cgi/mjpg/video.cgi?resolution=800x600&dummy=1291916677748axis-cgi/mjpg/video.cgi?resolution=480x360&dummy=1414403612100",
+          "iframe": false
+        }
+      ],
+      "forecast": []
+    }
+  ]
+}
