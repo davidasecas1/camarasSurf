@@ -1,14 +1,16 @@
 import React, { PureComponent } from 'react';
 import Cam from './cam';
 
-class Playa extends PureComponent {
+import './playa.css';
 
+class Playa extends PureComponent {
+ 
   render() {
     return (
-      <div>
+      <div className="cams">
         {
           this.props.cams.map((item, key) => (
-            <Cam {...item}/>
+            <Cam {...item} key={item.id}/>
           ))
         }
       </div>
