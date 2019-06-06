@@ -14,7 +14,7 @@ class Cam extends Component {
   }
   componentDidMount() {
     if(this.props.update) {
-      setInterval(this.update, 1000);
+      setInterval(this.update, 2000);
     }
   }
   render(){

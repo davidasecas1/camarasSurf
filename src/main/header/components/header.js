@@ -11,6 +11,14 @@ class Header extends PureComponent {
     return (
       <header className="header">
         <ul className="header-menu" >
+          <li 
+            className={`menu-item ${this.props.idActive == 0 && "menu-item-active"}`}
+            value={0}
+            onClick={this.handleMenuChange}
+            key={0}
+          >
+            Todas
+          </li>
           {
             this.props.playas.map(item => (
               <li 
