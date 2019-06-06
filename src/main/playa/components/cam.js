@@ -23,7 +23,7 @@ class Cam extends Component {
       {
         this.props.iframe ? 
           (
-            <iframe src={this.props.src} frameBorder="0" webkitallowfullscreen="" mozallowfullscreen="" allowFullScreen="" autoPlay="1"/>
+            <iframe src={this.props.src} frameBorder="0" allowFullScreen />
           )
           :
           (
