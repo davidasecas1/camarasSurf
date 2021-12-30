@@ -1,90 +1,137 @@
 {
-  "playas": [
-    {
-      "id": 1,
-      "title": "San Lorenzo",
-      "cams": [
+    "playas": [
         {
-          "src": "https://v.angelcam.com/iframe?v=vboykjz9r8&amp;mute=0&amp;autoplay=1&amp;uuid=81f40fb3-b118-2ffc-516f-26c03ddcb116",
-          "iframe": true,
-          "update": false
+            "id": 1,
+            "title": "San Lorenzo",
+            "cams": [
+                {
+                    "src": "https://v.angelcam.com/iframe?v=vboykjz9r8&amp;mute=0&amp;autoplay=1&amp;uuid=81f40fb3-b118-2ffc-516f-26c03ddcb116",
+                    "iframe": true,
+                    "update": false
+                },
+                {
+                    "src": "https://www.hispacams.com/cams/000065/get_imagen.php",
+                    "iframe": false,
+                    "update": true
+                }
+            ],
+            "forecast": []
         },
         {
-          "src": "http://85.152.41.31:8008/axis-cgi/mjpg/video.cgi?resolution=800x600&dummy=1291916677748axis-cgi/mjpg/video.cgi?resolution=480x360&dummy=1414403612100",
-          "iframe": false,
-          "update": false
+            "id": 2,
+            "title": "Rodiles",
+            "cams": [
+                {
+                    "src": "https://v.angelcam.com/iframe?v=oxrnk2pkr8&autoplay=1",
+                    "iframe": true,
+                    "update": false
+                },
+                {
+                    "src": "https://www.hispacams.com/cams/000100/get_imagen.php",
+                    "iframe": false,
+                    "update": true
+                }
+            ],
+            "forecast": []
         },
         {
-          "src": "https://www.hispacams.com/cams/000065/get_imagen.php",
-          "iframe": false,
-          "update": true
-        }
-      ],
-      "forecast": []
-    },
-    {
-      "id": 2,
-      "title": "Rodiles",
-      "cams": [
-        {
-          "src": "https://v.angelcam.com/iframe?v=oxrnk2pkr8&autoplay=1",
-          "iframe": true,
-          "update": false
+            "id": 3,
+            "title": "Xagó",
+            "cams": [
+                {
+                    "src": "https://www.hispacams.com/cams/000132/get_imagen.php?f=1559744078192",
+                    "iframe": false,
+                    "update": true
+                }
+            ],
+            "forecast": []
         },
         {
-          "src": "https://www.hispacams.com/cams/000100/get_imagen.php",
-          "iframe": false,
-          "update": true
-        }
-      ],
-      "forecast": []
-    },
-    {
-      "id": 3,
-      "title": "Xagó",
-      "cams": [
-        {
-          "src": "https://www.hispacams.com/cams/000132/get_imagen.php?f=1559744078192",
-          "iframe": false,
-          "update": true
-        }
-      ],
-      "forecast": []
-    },
-    {
-      "id": 4,
-      "title": "Salinas",
-      "cams": [
-        {
-          "src": "https://www.youtube.com/embed/uCFyyh2Ex-0?autoplay=1",
-          "iframe": true,
-          "update": false
+            "id": 4,
+            "title": "Salinas",
+            "cams": [
+                {
+                    "src": "https://www.youtube.com/embed/vwTEq6nuP48?autoplay=1",
+                    "iframe": true,
+                    "update": false
+                },
+                {
+                    "src": "https://www.youtube.com/embed/gSY5W3XHy0k?autoplay=1",
+                    "iframe": true,
+                    "update": false
+                },
+                {
+                    "src": "https://www.hispacams.com/cams/000144/get_imagen.php?f=1559744211418",
+                    "iframe": false,
+                    "update": true
+                }
+            ],
+            "forecast": []
         },
         {
-          "src": "https://www.youtube.com/embed/gSY5W3XHy0k?autoplay=1",
-          "iframe": true,
-          "update": false
+            "id": 5,
+            "title": "Xivares",
+            "cams": [
+                {
+                    "src": "https://www.hispacams.com/cams/000115/get_imagen.php?f=1559744247201",
+                    "iframe": false,
+                    "update": true
+                }
+            ],
+            "forecast": []
         },
         {
-          "src": "https://www.hispacams.com/cams/000144/get_imagen.php?f=1559744211418",
-          "iframe": false,
-          "update": true
-        }
-      ],
-      "forecast": []
-    }
-    ,
-    {
-      "id": 5,
-      "title": "Xivares",
-      "cams": [
+            "id": 6,
+            "title": "Caravia",
+            "cams": [
+                {
+                    "src": "https://www.hispacams.com/cams/000121/get_imagen.php?f=1592460560110",
+                    "iframe": false,
+                    "update": true
+                },
+                {
+                    "src": "https://www.hispacams.com/cams/000112/get_imagen.php?f=1592460718026",
+                    "iframe": false,
+                    "update": true
+                }
+            ],
+            "forecast": []
+        },
         {
-          "src": "https://www.hispacams.com/cams/000115/get_imagen.php?f=1559744247201",
-          "iframe": false,
-          "update": true
+            "id": 7,
+            "title": "Agilar",
+            "cams": [
+                {
+                    "src": "https://www.hispacams.com/cams/000106/get_imagen.php?f=1592460598596",
+                    "iframe": false,
+                    "update": true
+                }
+            ],
+            "forecast": []
+        },
+        {
+            "id": 8,
+            "title": "Ñora",
+            "cams": [
+                {
+                    "src": "https://www.hispacams.com/cams/000114/get_imagen.php?f=1592460652893",
+                    "iframe": false,
+                    "update": true
+                }
+            ],
+            "forecast": []
+        },
+        {
+            "id": 9,
+            "title": "Ribadesella",
+            "cams": [
+                {
+                    "src": "https://www.hispacams.com/cams/000107/get_imagen.php?f=1592460691536",
+                    "iframe": false,
+                    "update": true
+                }
+            ],
+            "forecast": []
         }
-      ],
-      "forecast": []
-    }
-  ]
+    ]
 }
