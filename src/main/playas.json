@@ -10,26 +10,46 @@
                     "update": false
                 },
                 {
-                    "src": "https://www.hispacams.com/cams/000065/get_imagen.php",
-                    "iframe": false,
-                    "update": true
+                    "src": "https://www.youtube.com/embed/f1zR3Q-S3b8?autoplay=1",
+                    "iframe": true,
+                    "update": false
+                },
+                {
+                    "src": "https://www.youtube.com/embed/X6MNKsFL404?autoplay=1",
+                    "iframe": true,
+                    "update": false
+                },
+                {
+                    "src": "https://v.angelcam.com/iframe?v=v8ypkz90l6&autoplay=1",
+                    "iframe": true,
+                    "update": false
+                },
+                {
+                    "src": "https://www.youtube.com/embed/_iIPoR1TAy0?autoplay=1",
+                    "iframe": true,
+                    "update": false
+                },
+                {
+                    "src": "https://www.hispacams.com/cam_embedded.php?id=000110",
+                    "iframe": true,
+                    "update": false
+                },
+                {
+                    "src": "https://www.hispacams.com/cam_embedded.php?id=000025",
+                    "iframe": true,
+                    "update": false
                 }
             ],
             "forecast": []
         },
         {
-            "id": 2,
-            "title": "Rodiles",
+            "id": 10,
+            "title": "Peñarrubia",
             "cams": [
                 {
-                    "src": "https://v.angelcam.com/iframe?v=oxrnk2pkr8&autoplay=1",
+                    "src": "https://www.youtube.com/embed/Ygd2kRGlks8",
                     "iframe": true,
                     "update": false
-                },
-                {
-                    "src": "https://www.hispacams.com/cams/000100/get_imagen.php",
-                    "iframe": false,
-                    "update": true
                 }
             ],
             "forecast": []
@@ -51,12 +71,12 @@
             "title": "Salinas",
             "cams": [
                 {
-                    "src": "https://www.youtube.com/embed/vwTEq6nuP48?autoplay=1",
+                    "src": "https://www.youtube.com/embed/doNsXrJHErU?autoplay=1",
                     "iframe": true,
                     "update": false
                 },
                 {
-                    "src": "https://www.youtube.com/embed/gSY5W3XHy0k?autoplay=1",
+                    "src": "https://www.youtube.com/embed/UHxxrdrMQWU?autoplay=1",
                     "iframe": true,
                     "update": false
                 },
@@ -64,6 +84,23 @@
                     "src": "https://www.hispacams.com/cams/000144/get_imagen.php?f=1559744211418",
                     "iframe": false,
                     "update": true
+                }
+            ],
+            "forecast": []
+        },
+        {
+            "id": 2,
+            "title": "Rodiles",
+            "cams": [
+                {
+                    "src": "https://v.angelcam.com/iframe?v=oxrnk2pkr8&autoplay=1",
+                    "iframe": true,
+                    "update": false
+                },
+                {
+                    "src": "https://v.angelcam.com/iframe?v=2dy6d7vnlk&autoplay=1",
+                    "iframe": true,
+                    "update": false
                 }
             ],
             "forecast": []
@@ -86,11 +123,6 @@
             "cams": [
                 {
                     "src": "https://www.hispacams.com/cams/000121/get_imagen.php?f=1592460560110",
-                    "iframe": false,
-                    "update": true
-                },
-                {
-                    "src": "https://www.hispacams.com/cams/000112/get_imagen.php?f=1592460718026",
                     "iframe": false,
                     "update": true
                 }
